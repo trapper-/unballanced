@@ -1,4 +1,4 @@
-# unballanced
+# unbalanced
 Unbalanced calls to begin/end appearance transitions
 
 ViewController1 is in a container.
